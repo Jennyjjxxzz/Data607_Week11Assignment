@@ -1,0 +1,27 @@
+---
+title: "Week 11: Recommender Systems"
+author: "Jiaxin Zheng"
+date: "2024-12-08"
+output: html_document
+---
+
+## Recommender Systems
+Wayfair is one of the largest online shopping for home, including furniture, rugs, storage solution, and more. Wayfair can quick and easy to find exactly what client want to select from 14million items.For the purpose of this discussion, I choice Wayfair, as an interior designer who works in architect firm for many years, and I have observed Wayfair's ReCNet, a deep-learning-based hybrid recommendation model.
+
+### 1. Scenario Design Analysis
+A Scenario Design analysis is performed on Wayfair’s recommendation system.
+
+### 1. Who are the target users?
+Wayfair's target are individuals who without formal design experience, who are seek for interior design and styles solutions.
+The Website also offers "Room Ideas" to show the furniture styles and decoration ideas. Also, they have "Make this floorplan your own", allows users to easily customize a room layout and with visualize it through 3d rendering.
+
+
+### 2. What are the users' key goals?
+User's key goals are help clients to find the low cost and quality furniture in a quick way, to match their style. 
+
+### 3. How to help those users accomplish those goals?
+ReCNet can analyze browsing history and recommend complementary products across various categories, and enhancing product discovery. To ensure the recommendation interface is intuitive, allowing customers easily to explore suggested items.  
+
+
+https://www.aboutwayfair.com/data-science/2019/12/recnet-deep-learning-based-cross-class-recommendations-at-wayfair/
+https://www.aboutwayfair.com/tag/search-recommender-systems
